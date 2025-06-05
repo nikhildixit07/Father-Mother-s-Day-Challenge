@@ -1,4 +1,4 @@
-# Sign of the Product of an Array (#1822)
+// Sign of the Product of an Array (#1822)
 class Solution {
 public:
     int arraySign(vector<int>& nums) {
