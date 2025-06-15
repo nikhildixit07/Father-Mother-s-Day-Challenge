@@ -1,23 +1,23 @@
+# Reverse Linked List (#206)
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         # Initialize pointers
-        prev = None  # Previous node starts as None
-        curr = head  # Current node starts at the head
+        prev = None
+        curr = head
 
         # Traverse the list
         while curr is not None:
-            next_node = curr.next  # Save the next node
+            next_node = curr.next
             
-            curr.next = prev  # Reverse the link
-            
-            # Move pointers forward
-            prev = curr  # Move prev to the current node
-            curr = next_node  # Move curr to the next node
-
-        # prev is now the new head of the reversed list
+            curr.next = prev 
+        
+            prev = curr 
+            curr = next_node
         return prev
