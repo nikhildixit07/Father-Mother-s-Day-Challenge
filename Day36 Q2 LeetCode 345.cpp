@@ -1,4 +1,5 @@
 // Reverse Vowels of a String (#345)
+
 class Solution {
 public:
     string reverseVowels(string s) {

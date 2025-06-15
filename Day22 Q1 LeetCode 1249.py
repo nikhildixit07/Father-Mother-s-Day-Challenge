@@ -1,4 +1,5 @@
 # Minimum Remove to Make Valid Parentheses (#1249)
+
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         s = list(s)

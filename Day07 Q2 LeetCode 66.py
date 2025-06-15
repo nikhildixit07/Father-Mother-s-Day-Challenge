@@ -1,4 +1,5 @@
 # Plus One (#66)
+
 class Solution:
     def plusOne(self, digits: list[int]) -> list[int]:
         # Start from the last digit and move left

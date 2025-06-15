@@ -1,4 +1,5 @@
 // Pascal's Triangle II (#119)
+
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {

@@ -1,4 +1,5 @@
 // Implement Stack using Queues (#225)
+
 class MyStack {
 private:
     queue<int> q1, q2;

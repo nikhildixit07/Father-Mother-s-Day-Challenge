@@ -1,4 +1,5 @@
 // Valid Parenthesis String (#678)
+
 class Solution {
 public:
     bool checkValidString(string s) {

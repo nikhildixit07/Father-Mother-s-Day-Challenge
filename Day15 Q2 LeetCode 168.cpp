@@ -1,4 +1,5 @@
 // Excel Sheet Column Title (#168)
+
 class Solution {
 public:
     string convertToTitle(int columnNumber) {

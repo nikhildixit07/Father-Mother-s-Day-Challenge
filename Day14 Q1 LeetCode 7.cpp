@@ -1,4 +1,5 @@
 // Reverse Integer (#7)
+
 class Solution {
 public:
     int reverse(int x) {

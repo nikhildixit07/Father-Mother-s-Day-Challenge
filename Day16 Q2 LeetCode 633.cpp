@@ -1,4 +1,5 @@
 // Sum of Square Numbers (#633)
+
 class Solution {
 public:
     bool judgeSquareSum(int c) {

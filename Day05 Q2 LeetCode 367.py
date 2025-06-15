@@ -1,4 +1,5 @@
 # Valid Perfect Square (#367)
+
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
         left, right = 1, num

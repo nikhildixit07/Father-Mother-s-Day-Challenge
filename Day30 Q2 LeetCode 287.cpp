@@ -1,4 +1,5 @@
 // Find the Duplicate Number (#287)
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {

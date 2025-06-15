@@ -1,4 +1,5 @@
 // Find First Palindromic String in the Array (#2108)
+
 public class Solution {
     public String firstPalindrome(String[] words) {
         for (String word : words) {

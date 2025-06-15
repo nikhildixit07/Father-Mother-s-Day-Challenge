@@ -1,7 +1,7 @@
 // Valid Palindrome (#125)
+
 class Solution {
     public boolean isPalindrome(String s) {
-        // Convert the string to lowercase
         s = s.toLowerCase();
 
         // Use two pointers to check for palindrome
@@ -9,7 +9,6 @@ class Solution {
         int right = s.length() - 1;
 
         while (left < right) {
-            // Skip non-alphanumeric characters
             while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
                 left++;
             }

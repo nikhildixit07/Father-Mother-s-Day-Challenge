@@ -1,4 +1,5 @@
 // Implement Queue using Stack (#232)
+
 class MyQueue {
 private:
     stack<int> inStack, outStack;

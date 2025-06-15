@@ -1,7 +1,4 @@
 // Number of Subarrays With LCM Equal to K (#2470)
-#include <vector>
-#include <numeric> // for std::gcd
-using namespace std;
 
 class Solution {
 public:

@@ -1,4 +1,5 @@
 // Partition List (#86)
+
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {

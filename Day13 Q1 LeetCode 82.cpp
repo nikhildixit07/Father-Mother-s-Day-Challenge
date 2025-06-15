@@ -1,5 +1,4 @@
-//Remove Duplicates from Sorted List II (#82)
-#include <map>
+// Remove Duplicates from Sorted List II (#82)
 
 class Solution {
 public:

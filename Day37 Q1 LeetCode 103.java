@@ -1,4 +1,5 @@
 // Binary Tree Zigzag Level Order Traversal (#103)
+
 public class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
@@ -30,11 +31,4 @@ public class Solution {
         }
         return result;
     }
-}
-
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int val) { this.val = val; }
 }

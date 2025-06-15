@@ -1,4 +1,5 @@
 // Find Greatest Common Divisor of Array (#1979)
+
 class Solution {
 public:
     int findGCD(vector<int>& nums) {

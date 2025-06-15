@@ -1,4 +1,5 @@
-//Perfect Number (#507)
+// Perfect Number (#507)
+
 class Solution {
 public:
     bool checkPerfectNumber(int num) {

@@ -1,4 +1,5 @@
-//Merge Two Sorted Lists (#21)
+// Merge Two Sorted Lists (#21)
+
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {

@@ -1,8 +1,4 @@
 // Basic Calculator (#224)
-#include <iostream>
-#include <stack>
-#include <cctype>
-using namespace std;
 
 class Solution {
 public:

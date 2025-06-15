@@ -1,4 +1,5 @@
 # Happy Number (#202)
+
 class Solution:
     def isHappy(self, n: int) -> bool:
         seen = set()

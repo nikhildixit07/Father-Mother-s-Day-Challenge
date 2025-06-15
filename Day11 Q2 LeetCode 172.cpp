@@ -1,4 +1,5 @@
 // Factorial Trailing Zeores (#172)
+
 class Solution {
     public:
         int trailingZeroes(int n) {

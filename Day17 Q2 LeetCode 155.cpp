@@ -1,4 +1,5 @@
 // Min Stack (#155)
+
 class MinStack {
     std::stack<int> s;
     std::stack<int> minS;

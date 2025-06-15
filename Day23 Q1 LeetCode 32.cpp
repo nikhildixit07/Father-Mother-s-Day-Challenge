@@ -1,4 +1,5 @@
 // Longest Valid Parentheses (#32)
+
 class Solution {
 public:
     int longestValidParentheses(string s) {

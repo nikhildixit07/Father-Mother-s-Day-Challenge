@@ -1,4 +1,5 @@
 # Excel Sheet Column Number (#171)
+
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
         result = 0

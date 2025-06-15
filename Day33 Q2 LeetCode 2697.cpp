@@ -1,4 +1,5 @@
 // Lexicographically Smallest Palindrome (#2697)
+
 class Solution {
 public:
     string makeSmallestPalindrome(string s) {

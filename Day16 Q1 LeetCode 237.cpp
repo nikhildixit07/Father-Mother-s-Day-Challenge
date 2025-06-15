@@ -1,4 +1,5 @@
 // Delete Node in a Linked List (#237)
+
 class Solution {
 public:
     void deleteNode(ListNode* node) {

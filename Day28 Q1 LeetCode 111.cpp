@@ -1,6 +1,4 @@
 // Minimum Depth of Binary Tree (#111)
-#include <queue>
-using namespace std;
 
 class Solution {
 public:

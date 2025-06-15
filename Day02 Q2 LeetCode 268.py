@@ -1,4 +1,5 @@
 # Missing Number (#268)
+
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n = len(nums)

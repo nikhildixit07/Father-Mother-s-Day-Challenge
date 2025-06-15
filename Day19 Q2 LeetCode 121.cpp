@@ -1,4 +1,5 @@
 // Best Time to Buy and Sell Stock (#121)
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {

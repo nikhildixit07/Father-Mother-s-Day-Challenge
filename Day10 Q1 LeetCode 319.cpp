@@ -1,4 +1,5 @@
 // Bulb Switcher (#319)
+
 class Solution {
 public:
     int bulbSwitch(int n) {

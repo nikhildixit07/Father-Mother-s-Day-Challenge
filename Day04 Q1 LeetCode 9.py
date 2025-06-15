@@ -1,4 +1,5 @@
 # Palindrome Number (#9)
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         # Edge cases: negative numbers and numbers ending with 0 (but not 0 itself)
